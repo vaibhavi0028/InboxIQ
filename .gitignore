@@ -1,0 +1,26 @@
+# dependencies
+node_modules/
+venv/
+
+# env files
+.env
+*.env
+
+# build
+dist/
+build/
+
+# logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Vite
+client/.vite
