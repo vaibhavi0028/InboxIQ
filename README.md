@@ -8,13 +8,13 @@ InboxIQ is an intelligent email assistant that transforms cluttered inboxes into
 By combining semantic ML classification, Gmail automation, and LLM-powered assistance, InboxIQ enables users to automatically label, prioritize, summarize, and respond to emails in real time.
 </p>
 
-<h4>
+<!-- <h4>
 <a href="https://your-frontend-url.vercel.app">Live Demo</a>
 <span> · </span>
 <a href="https://github.com/yourusername/InboxIQ">Repository</a>
 <span> · </span>
 <a href="https://your-presentation-link.com">Presentation</a>
-</h4>
+</h4> -->
 
 <br>
 
